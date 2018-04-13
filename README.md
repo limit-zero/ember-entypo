@@ -1,7 +1,7 @@
 Entypo+ Font Icons for EmberJS
 ==============================================================================
 
-Adds Entypo icons/fonts to Ember.
+🔣 Adds Entypo icons/fonts to Ember.
 
 Installation
 ------------------------------------------------------------------------------
