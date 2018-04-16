@@ -1,0 +1,13 @@
+{
+	"version": 3,
+	"file": "dummy.css",
+	"sourceRoot": "/Users/jbare/Source/limit-zero/ember-entypo/app/styles",
+	"sources": [
+		"../../sass_compiler-input_base_path-eh428AMH.tmp/app/styles/app.scss"
+	],
+	"sourcesContent": [
+		""
+	],
+	"names": [],
+	"mappings": ""
+}
