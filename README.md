@@ -1,21 +1,20 @@
 Entypo+ Font Icons for EmberJS
 ==============================================================================
 
-🔣 Adds Entypo icons/fonts to Ember.
+🔣 Adds Entypo+ icons/fonts to Ember. This is merely a font wrapper addon for the [411 carefully crafted premium pictograms by Daniel Bruce — CC BY-SA 4.0](http://www.entypo.com).
 
 Installation
 ------------------------------------------------------------------------------
-
 ```
 ember install ember-entypo
 ```
 
-
 Usage
 ------------------------------------------------------------------------------
-
-**NOTE**: This addon is still in development and is not ready for use! Complete release forthcoming. 😀
-
+To use, simply call the component with the icon you'd like to display. For example, to display the user icon:
+```
+{{entypo-icon "user"}} Hello, User!
+```
 
 Contributing
 ------------------------------------------------------------------------------
