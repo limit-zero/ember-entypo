@@ -1,7 +1,7 @@
 @font-face {
   font-family: "toolkit-entypo";
-  src: url("/ember-entypo/fonts/entypo.eot");
-  src: url("/ember-entypo/fonts/entypo.eot?#iefix") format("eot"), url("/ember-entypo/fonts/entypo.woff2") format("woff2"), url("/ember-entypo/fonts/entypo.woff") format("woff"), url("/ember-entypo/fonts/entypo.ttf") format("truetype");
+  src: url("../ember-entypo/fonts/entypo.eot");
+  src: url("../ember-entypo/fonts/entypo.eot?#iefix") format("eot"), url("../ember-entypo/fonts/entypo.woff2") format("woff2"), url("../ember-entypo/fonts/entypo.woff") format("woff"), url("../ember-entypo/fonts/entypo.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
 
