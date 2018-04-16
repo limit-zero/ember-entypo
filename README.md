@@ -15,6 +15,11 @@ To use, simply call the component with the icon you'd like to display. For examp
 ```
 {{entypo-icon "user"}} Hello, User!
 ```
+The icons are rendered as `span` elements, classed with `entypo icon-[icon-name]`. To change the element tag name, simply set the `tagName` property when calling the component (just like any other Ember component).
+
+For example, to use an `<i>` element (along with some custom class names), you would use `{{entypo-icon tagName="i" class="custom-class1 custom-class2" "user"}}`.
+
+The CSS targets `.entypo.icon-[icon-name]`, so this addon should _not_ conflict with other icon libraries.
 
 Contributing
 ------------------------------------------------------------------------------
