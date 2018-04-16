@@ -1,6 +1,6 @@
 {
   "name": "ember-entypo",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Adds Entypo icons/fonts to Ember.",
   "keywords": [
     "ember-addon",
